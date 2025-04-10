@@ -9,11 +9,9 @@
 
 **Features**:
 - 🔢 Basic arithmetic operations (+, -, ×, ÷)
-- 🔐 Password-protected secret menu
 - 🎨 Modern UI with dark theme
 - 🔄 History tracking
 - 📱 Responsive design
-- 🌓 Dark/Light theme toggle
 
 ## 📂 Project Structure
 
